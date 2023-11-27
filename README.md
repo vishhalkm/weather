@@ -11,4 +11,7 @@ add this above url with city name to base url and then you will get the weather 
 Thats it now you can see the json file NOTE:-make sure your script is running parallely in vs code
 # screenshots
 ![1](https://github.com/vishhalkm/weather/assets/150259362/23cabe52-486f-4ad8-abf2-89bc9d946278)
+![3](https://github.com/vishhalkm/weather/assets/150259362/a94b22db-b11d-4632-bcf1-627e5c439378)
 
+
+![2](https://github.com/vishhalkm/weather/assets/150259362/81576a8b-f7c1-4075-b7b3-9cd208bbce29)
